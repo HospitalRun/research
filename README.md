@@ -2,7 +2,6 @@
 This repo is used to propose and house UX research for HospitalRun.
 
 ## How to propose research
-----
 
 UX research can be categorized into 3 categories: 
 - Exploratory research - Seeks to define and develop a deeper understanding of the problem space 
@@ -22,6 +21,6 @@ UX research can be categorized into 3 categories:
 This repo is used for tracking research efforts/issues. 
 
 ## Members
-Owner: @lauggh
-Researchers: Az, Priyanka, Katherine Chen
-Designers: 
+- Owner: @lauggh
+- Researchers: Az, Priyanka, Katherine Chen
+- Designers: 
